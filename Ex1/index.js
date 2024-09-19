@@ -2,11 +2,9 @@
 
 /*
  * Instructions :
- * La fonction doit retourner "Fizz" pour les multiples de 3, "Buzz" pour les multiples de 5, 
+ * La fonction doit retourner "Fizz" pour les multiples de 3, "Buzz" pour les multiples de 5,
  * et "FizzBuzz" pour les multiples de 3 et 5.
-*/
-function fizzBuzz(number) {
+ */
+function fizzBuzz(number) {}
 
-}
-
-module.exports = { fizzBuzz }
+module.exports = { fizzBuzz };
